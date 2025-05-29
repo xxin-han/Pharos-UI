@@ -29,13 +29,17 @@
    ```bash
    npm install
    ```
-6. Fill the private key list on accounts.txt then save it ctrl + x + y + enter
+6. Fill the private key list on pk.txt then save it ctrl + x + y + enter
    ```bash
    nano pk.txt
    ```
-7. run it
+7. If You Using Proxy proxy.txt then save it ctrl + x + y + enter
+   ```bash
+   nano proxy.txt
+   ```
+8. run it
    ```bash
    node index.js
    ```
-8. Stop bot
+9. Stop bot
    ctrl + c
